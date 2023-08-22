@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="072e37e7-786e-4e5e-83a0-d7ebe3e97e48" name="Changes" comment="Connection of dataBase to Java">
-      <change afterPath="$PROJECT_DIR$/src/_8_Inserting_Image_in_db_using_Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_9_Insert_long_img_in_DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DisplayImage.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DisplayImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Updating_data_in_Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Selecting_data_using_Java_app.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Selecting_img_from_Db_using_Java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_6_Insert_data_us_PreparedStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_Insert_data_us_PreparedStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_7_Inserting_data_in_Table_Dynamic_Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_7_Inserting_data_in_Table_Dynamic_Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Connection_Provider_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Connection_Provider_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_9_Insert_long_img_in_DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_9_Insert_long_img_in_DB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,36 +36,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/mysql-connector-j-8.1.0.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pathVariables&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "false",
+    "last_opened_file_path": "C:/Users/Thaseen Ahmed/IdeaProjects/Jdbc_First_program",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pathVariables"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ],
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;PLAIN_TEXT&quot;
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Application._9_Insert_long_img_in_DB">
-    <configuration name="_5_InsertJDBC_Creating_Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_5_InsertJDBC_Creating_Table" />
+}]]></component>
+  <component name="RunManager" selected="Application._12_Selecting_img_from_Db_using_Java">
+    <configuration name="_10_Updating_data_in_Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_Updating_data_in_Table" />
       <module name="Jdbc_First_program" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_6_Insert_data_us_PreparedStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_6_Insert_data_us_PreparedStatement" />
+    <configuration name="_11_Selecting_data_using_Java_app" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_Selecting_data_using_Java_app" />
+      <module name="Jdbc_First_program" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_12_Selecting_img_from_Db_using_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_Selecting_img_from_Db_using_Java" />
       <module name="Jdbc_First_program" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,13 +81,6 @@
     </configuration>
     <configuration name="_7_Inserting_data_in_Table_Dynamic_Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_7_Inserting_data_in_Table_Dynamic_Input" />
-      <module name="Jdbc_First_program" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_8_Inserting_Image_in_db_using_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_8_Inserting_Image_in_db_using_Java" />
       <module name="Jdbc_First_program" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._9_Insert_long_img_in_DB" />
-        <item itemvalue="Application._8_Inserting_Image_in_db_using_Java" />
+        <item itemvalue="Application._12_Selecting_img_from_Db_using_Java" />
+        <item itemvalue="Application._11_Selecting_data_using_Java_app" />
+        <item itemvalue="Application._10_Updating_data_in_Table" />
         <item itemvalue="Application._7_Inserting_data_in_Table_Dynamic_Input" />
-        <item itemvalue="Application._6_Insert_data_us_PreparedStatement" />
-        <item itemvalue="Application._5_InsertJDBC_Creating_Table" />
+        <item itemvalue="Application._9_Insert_long_img_in_DB" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +119,21 @@
       <option name="project" value="LOCAL" />
       <updated>1692623233279</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Connection of dataBase to Java">
+      <created>1692712710972</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692712710972</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Connection of dataBase to Java">
+      <created>1692712747631</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692712747631</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
