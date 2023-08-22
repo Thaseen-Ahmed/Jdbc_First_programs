@@ -23,8 +23,8 @@ public class _6_Insert_data_us_PreparedStatement {
 //       Setting the Values
 //    the both tName and City are String,so we have to use setString to set values
 
-//        prst.setString(1,"Thaseen Ahmed");
-//        prst.setString(2,"Ambur");
+//        prst.setString(1,"Thaseen Ahmed"); ---> will be stored in tName
+//        prst.setString(2,"Ambur");      ----> will be stored in tCity
         prst.setString(1,"Mohammed Adnan");
         prst.setString(2,"Chennai");
 
